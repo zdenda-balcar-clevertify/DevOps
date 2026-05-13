@@ -107,8 +107,8 @@ jobs:
                 "content": "these are my code changes:\n\($diff)"
               },
               {
-                "role": "assistant",
-                "content": "professional programmer with knowledge of clean code principles"
+                "role": "system",
+                "content": "You are a professional programmer with knowledge of clean code principles"
               },
               {
                 "role": "user",
