@@ -103,12 +103,12 @@ jobs:
           JSON_PAYLOAD=$(jq -n --arg diff "$DIFF" '{
             "messages": [
               {
-                "role": "user",
-                "content": "these are my code changes:\n\($diff)"
-              },
-              {
                 "role": "system",
                 "content": "You are a professional programmer with knowledge of clean code principles"
+              },
+              {
+                "role": "user",
+                "content": "these are my code changes:\n\($diff)"
               },
               {
                 "role": "user",
