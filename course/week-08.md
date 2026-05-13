@@ -108,11 +108,7 @@ jobs:
               },
               {
                 "role": "user",
-                "content": "these are my code changes:\n\($diff)"
-              },
-              {
-                "role": "user",
-                "content": "refactor this code and fix bugs"
+                "content": "these are my code changes:\n\($diff)\n\nRefactor this code and fix bugs."
               }
             ],
             "max_completion_tokens": 13107,
