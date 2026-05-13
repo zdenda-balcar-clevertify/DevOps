@@ -108,10 +108,10 @@ jobs:
               },
               {
                 "role": "user",
-                "content": "these are my code changes:\n\($diff)\n\nRefactor this code and fix bugs."
+                "content": "These are my code changes:\n\($diff)\n\nRefactor this code and fix bugs."
               }
             ],
-            "max_completion_tokens": 13107,
+            "max_completion_tokens": 4096,
             "temperature": 1,
             "top_p": 1,
             "stop": [],
