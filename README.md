@@ -1,4 +1,4 @@
-# DevOps for Frontend Developers — 8-Week Course
+# DevOps for Frontend Developers — 9-Week Course
 
 A hands-on, beginner-friendly DevOps course for junior developers who already know HTML/CSS/JS.
 **No Docker. No servers. No credit card required until Week 7.**
@@ -30,7 +30,8 @@ A live URL. A green checkmark. An AI reviewer on every PR. That's DevOps.
 | [Week 5](course/week-05.md) | GitHub Actions | CI with HTML linting |
 | [Week 6](course/week-06.md) | Branch Protection & Previews | Protected main, PR previews |
 | [Week 7](course/week-07.md) | Claude AI in GitHub Actions | AI-powered PR review |
-| [Week 8](course/week-08.md) | Secrets & Full Pipeline | Secure credentials, full picture |
+| [Week 8](course/week-08.md) | Minimal AI Code Review (Foundry) | Raw model call from GitHub Actions |
+| [Week 9](course/week-09.md) | Secrets & Full Pipeline | Secure credentials, full picture |
 
 ## How to use this repository
 
@@ -39,7 +40,7 @@ A live URL. A green checkmark. An AI reviewer on every PR. That's DevOps.
 3. Follow each week's `course/week-XX.md` file — they build on each other
 4. The `index.html` in the root is your project — customize and deploy it
 
-## Tools used (all free except Week 7)
+## Tools used (all free except AI weeks)
 
 | Tool | Purpose | Cost |
 |------|---------|------|

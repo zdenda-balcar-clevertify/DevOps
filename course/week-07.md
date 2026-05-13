@@ -329,4 +329,4 @@ The `permissions` block is missing or the Claude GitHub App is not installed.
 
 ---
 
-> Next week: the final lesson — a full overview of every secret in your project, what would happen if one leaked, and how to read the entire pipeline as a complete system.
+> Next week: build a minimal Foundry-based AI review workflow to prove model integration in CI. The final lesson after that covers secrets, leak response, and full-pipeline security understanding.
